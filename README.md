@@ -64,7 +64,7 @@ FlashcardQuizApp/
 └── activity_add_edit.xml      → Add/Edit screen layout
 ---
 
-## 📸 App Screens
+## 📸 App Screenshots
 
 | Main Screen | Add/Edit Screen |
 |:---:|:---:|
