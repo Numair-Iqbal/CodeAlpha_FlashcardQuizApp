@@ -67,8 +67,8 @@ FlashcardQuizApp/
 ## 📸 App Screenshots
 
 | Main Screen | Add/Edit Screen |
-|:---:|:---:|
-| View flashcards, navigate, and reveal answers | Create or update flashcards easily |
+|-------------|-----------------|
+| <img src="App%20Screenshots/FlashCard%20Main%20Screen.jpeg" width="250"> | <img src="App%20Screenshots/FlashCard%20Add,Edit%20Screen.jpeg" width="250"> |
 
 ---
 
